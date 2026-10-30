@@ -9,7 +9,7 @@
 ╚═════╝░░╚════╝░╚═╝░░╚══╝╚═╝░╚════╝░╚══════╝░░░╚═╝░░░
 ```
 
-### `Pentester & Tool Builder | Kali Linux | Bug Bounty`
+### `learning cyber sec`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Pentester+%26+Bug+Bounty+Hunter;Tool+Builder+from+Scratch;Kali+Linux+Enthusiast;Learning+Never+Stops...)
 
@@ -22,11 +22,11 @@
 ```python
 class Soniczy:
     handle     = "SONICZY-RAWR"
-    role       = ["Pentester", "Bug Bounty Hunter", "Tool Builder"]
-    platform   = "HackerOne"
+    role       = ["Pentester", "Tool Builder"]
+    platform   = "Hack The Box"
     os         = "Kali Linux"
     focus      = ["Web Pentesting", "Recon", "Tool Development"]
-    motto      = "Build your own tools. Understand everything."
+    motto      = "Build your own dream. Understand everything."
 ```
 
 ---
@@ -76,7 +76,7 @@ class Soniczy:
 ## 🎯 Current Focus
 
 ```
-[▓▓▓▓▓▓▓▓░░] Bug Bounty Hunting      — HackerOne
+[▓▓▓▓▓▓▓▓░░] cyber sec               — HTB
 [▓▓▓▓▓▓▓▓▓░] Tool Development        — Station404 (WIP)
 [▓▓▓▓▓░░░░░] Malware Analysis        — Learning
 ```
@@ -97,7 +97,6 @@ class Soniczy:
 
 ## 🌐 Find Me
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=red)](https://hackerone.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SONICZY-RAWR)
 
 ---
@@ -105,7 +104,7 @@ class Soniczy:
 <div align="center">
 
 ```
-"Build your own tools. Understand everything. Never stop learning."
+"Build your own dream. Understand everything. Never stop learning."
                                                     — soniczy
 ```
 
