@@ -81,17 +81,6 @@ class Soniczy:
 [▓▓▓▓▓░░░░░] Malware Analysis        — Learning
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SONICZY-RAWR&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SONICZY-RAWR&layout=compact&theme=dark&title_color=ff0000&text_color=ffffff&bg_color=0d1117&hide_border=true)
-
-</div>
 
 ---
 
