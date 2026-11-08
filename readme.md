@@ -9,7 +9,7 @@
 ╚═════╝░░╚════╝░╚═╝░░╚══╝╚═╝░╚════╝░╚══════╝░░░╚═╝░░░
 ```
 
-### `learning cyber sec`
+### `beginner cyber security`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Pentester+%26+Bug+Bounty+Hunter;Tool+Builder+from+Scratch;Kali+Linux+Enthusiast;Learning+Never+Stops...)
 
